@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=TOD-O
+Comment=Minimalistyczna aplikacja TODO w stylu notebooka
+Exec=tod-o
+Icon=tod-o
+Terminal=false
+Type=Application
+Categories=Utility;ProjectManagement;
+Keywords=todo;tasks;notes;notebook;
+StartupWMClass=tod-o
